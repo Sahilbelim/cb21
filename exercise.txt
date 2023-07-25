@@ -2,4 +2,5 @@ Write a program to print multiplication table get input from user using scanf.
 
 Write a print to find area of triangle get height and base from user using scanf.
 
-Write a print to find area of triangle get cylinder and base from user using scanf.
+Write a print to find area of  cylinder get height and radius  from user using scanf.
+
