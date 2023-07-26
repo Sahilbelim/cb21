@@ -4,3 +4,10 @@ Write a print to find area of triangle get height and base from user using scanf
 
 Write a print to find area of  cylinder get height and radius  from user using scanf.
 
+
+----------------------------if else ----------------------------------------------
+
+
+write a program to find area of two triangle and check who is larger .
+
+write a program to get two number from user and check who is small.

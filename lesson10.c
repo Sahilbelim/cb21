@@ -21,4 +21,5 @@ void main()
 
     bmi = weight / (height * height);
     printf("BMI is %.2f ", bmi);
+    
 }
