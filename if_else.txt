@@ -47,8 +47,8 @@ in program we want to execute few line of code if some conditions is true or we 
 // what are different types of decision making statements we can use in c language?
     1) simple if decision making
     2) if else decision making 
-    3) nested if decision making
-    4) if else if ladder decision statements
+    3) if else if ladder decision statements
+    4) nested if decision making
     5) switch decision making statements
 
 1) simple if decision making
