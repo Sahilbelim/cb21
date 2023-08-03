@@ -26,3 +26,15 @@ units           price  per unit
 >400            5
 
 also calculate 5% percentage energy charge on total bill amount & display total amount 
+
+
+---------------------------------------------- while --------------------------------------
+write a program to print number of user given .
+
+write a programe to print following pattern :
+
+ 1] 2,4,6,8,10,12...1000.
+
+ 2]0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55 ... 1000
+
+ 3] 1, 4, 9 , 16 , 25, 36 , . . . 10000.
