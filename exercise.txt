@@ -44,3 +44,7 @@ write a programe to print following pattern :
 4] 1, 5, 12, 22, 35, 51, 70, 92, 117, 145, 176 ... 3000
 
 5] 1, 8, 27, 64 ,125 ... 1000.
+
+6]1, 6, 15, 28, 45, 66, 91, 120, 153, 190, 231 .. 10000
+
+https://i1.faceprep.in/fp/articles/img/55984_1580817324.png
