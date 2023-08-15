@@ -22,11 +22,14 @@ void main()
             printf("marks of subject %d  : %d \n\n", i + 1, marks[j][i]);
         }
         add[j] = marks[j][0] + marks[j][1] + marks[j][2] + marks[j][3] + marks[j][4] ;
-        printf("add : %d", add[j]);
+        // printf("add : %d", add[j]);
         avg[j] = add[j] / 5;
       
     }
-    printf("avareg of student 1 is :  %.2f \n", avg[0]);
-    printf("avareg of student 2 is :  %.2f \n", avg[1]);
-    printf("avareg of student 2 is :  %.2f \n", avg[3]);
+    for (i = 0; i < 5;i++)
+    {
+
+        printf("avareg of student %d is :  %.2f \n",i+1, avg[i]);
+    }
+  
 }
