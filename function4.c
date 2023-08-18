@@ -1,10 +1,12 @@
 #include<stdio.h>
+
 int Add(int num1,int num2)
 {
     int add;
     add = num1 + num2;
     return add;
 }
+
 int Sub(int number1,int number2)
 {
     int sub;

@@ -54,3 +54,9 @@ https://i1.faceprep.in/fp/articles/img/55984_1580817324.png
 write a program to fing area of 5  triangle .
 
 write a program to display name age weight of 5 persone.
+
+-------------------------------- structure--------------------------
+
+write a program to print name , number , email , address, city , age , bmi of 10 user .
+
+
